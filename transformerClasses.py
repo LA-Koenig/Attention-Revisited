@@ -27,6 +27,7 @@ class OuterTransformerBlock(keras.layers.Layer):
         self.layernorm2 = keras.layers.LayerNormalization(epsilon=1e-6)
         self.dropout1 = keras.layers.Dropout(rate)
         self.dropout2 = keras.layers.Dropout(rate)
+        
         self.embed_dim = embed_dim
         self.num_heads = num_heads
         self.ff_dim = ff_dim
@@ -118,7 +119,7 @@ class OuterMaskedTransformerBlock(keras.layers.Layer):
 # --- Transformer blocks for inner model ---
 class InnerTransformerBlock(keras.layers.Layer):
     def __init__(self, embed_dim, num_heads, ff_dim, rate=0.1):
-        super(TransformerBlock, self).__init__()
+        super(InnerTransformerBlock, self).__init__()
         self.att = keras.layers.MultiHeadAttention(num_heads=num_heads,
                                                    key_dim=embed_dim)
         self.ffn = keras.Sequential(
@@ -140,7 +141,7 @@ class InnerTransformerBlock(keras.layers.Layer):
     
 class InnerMaskedTransformerBlock(keras.layers.Layer):
     def __init__(self, embed_dim, num_heads, ff_dim, rate=0.1):
-        super(MaskedTransformerBlock, self).__init__()
+        super(InnerMaskedTransformerBlock, self).__init__()
         self.att1 = keras.layers.MultiHeadAttention(num_heads=num_heads,
                                                     key_dim=embed_dim)
         self.att2 = keras.layers.MultiHeadAttention(num_heads=num_heads,
@@ -189,3 +190,4 @@ class InnerMaskedTransformerBlock(keras.layers.Layer):
         ffn_output = self.ffn(out2)
         ffn_output = self.dropout3(ffn_output, training=training)
         return self.layernorm2(out2 + ffn_output)
+    
