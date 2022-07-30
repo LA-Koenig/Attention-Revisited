@@ -7,3 +7,5 @@ test.speak()
 
 import sys
 print(sys.path)
+
+print(double(5))
