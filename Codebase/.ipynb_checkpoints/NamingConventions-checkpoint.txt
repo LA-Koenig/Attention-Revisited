@@ -1,0 +1,1 @@
+The working files are named as inner_outer with inner and outer being the type of model that corresponds. For example the inner LSTM with an outer Transformer would be named LSTM_Transformer.
