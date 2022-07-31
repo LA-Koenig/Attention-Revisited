@@ -64,6 +64,43 @@ def int_to_letter(encoding, mapping):
     integers = np.reshape(integers, enc_shape)
     return integers
 
+def word_to_int(char_array, mapping):
+    # --- Map the characters in the input array to integers ---
+    X = []
+    for letter in char_array:
+        X.append(mapping[letter])
+    X = np.array(X)
+        
+    # --- Create Y, preY, postY ---
+    Y = np.concatenate((np.array(mapping['start']), X, np.array(mapping['stop'])), axis=None)
+        
+    Y = np.array(Y)
+    preY  = Y[:-1]
+    postY = Y[1:]
+    
+    return X, Y, preY, postY
+
+def ProcessOutput(array):
+    array = np.array(array)
+    index = np.argmax(array, axis=-1).flatten()[0]
+    array[0, 0, index] = 1
+    new_array = np.floor(array)
+    return new_array
+
+def Out_to_int(array):
+    array = np.array(array)
+    
+    # Get dimensions of original array plus the extra one needed for onehot encodings
+    dims = np.empty(array.ndim)
+    for i in range(array.ndim):
+        dims[i] = int(array.shape[i])
+    
+    int_array = np.argmax(array, axis=-1)
+    
+    int_array = np.reshape(int_array, dims[:-1].astype(int))
+    return int_array
+
+
 
 def MaskedSparseCategoricalCrossentropy(real, pred):
     mask = tf.math.logical_not(tf.math.equal(real, 0))
