@@ -22,3 +22,75 @@ letter_accuracy: 99.0
 Transformer_Transformer tested with ../data/SG-10-train.txt
 word_accuracy: 100.0
 letter_accuracy: 100.0
+
+
+========================================================
+LSTM_LSTM tested with ../data/SA-10-train.txt
+word_accuracy: 98.66666666666667
+letter_accuracy: 99.66666666666667
+
+
+========================================================
+LSTM_Transformer tested with ../data/SA-10-train.txt
+word_accuracy: 80.0
+letter_accuracy: 92.77777777777779
+
+
+========================================================
+Transformer_LSTM tested with ../data/SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.94444444444444
+
+
+========================================================
+Transformer_Transformer tested with ../data/SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+LSTM_LSTM tested with ../data/NF-10-train.txt
+word_accuracy: 35.66666666666667
+letter_accuracy: 53.5
+
+
+========================================================
+LSTM_Transformer tested with ../data/NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 67.77777777777779
+
+
+========================================================
+Transformer_LSTM tested with ../data/NF-10-train.txt
+word_accuracy: 52.33333333333333
+letter_accuracy: 58.05555555555556
+
+
+========================================================
+Transformer_Transformer tested with ../data/NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 72.2777777777778
+
+
+========================================================
+LSTM_LSTM tested with ../data/FC-10-train.txt
+word_accuracy: 5.333333333333334
+letter_accuracy: 28.444444444444443
+
+
+========================================================
+LSTM_Transformer tested with ../data/FC-10-train.txt
+word_accuracy: 20.0
+letter_accuracy: 55.00000000000001
+
+
+========================================================
+Transformer_LSTM tested with ../data/FC-10-train.txt
+word_accuracy: 52.666666666666664
+letter_accuracy: 65.55555555555556
+
+
+========================================================
+Transformer_Transformer tested with ../data/FC-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
