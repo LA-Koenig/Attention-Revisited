@@ -14,10 +14,10 @@ import sys
 import numpy as np
 import pickle, random, string
 import matplotlib.pyplot as plt
-#get_ipython().run_line_magic('matplotlib', 'inline')
+get_ipython().run_line_magic('matplotlib', 'inline')
 
 # Visualization
-#from IPython.display import display
+from IPython.display import display
 
 from pathlib import Path
 
@@ -25,7 +25,7 @@ from pathlib import Path
 # In[2]:
 
 
-# If there are import error check here to fix
+# Ugly patch becasue idk how to make this propperly work
 #sys.path[0] += '/Codebase'
 sys.path
 
@@ -34,6 +34,7 @@ sys.path
 
 
 #my classes
+#from testClass import *
 from transformerClasses import *
 from embeddingClasses import *
 from lstmClasses import *
