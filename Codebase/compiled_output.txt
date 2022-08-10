@@ -1,0 +1,24 @@
+
+
+========================================================
+LSTM_LSTM tested with ../data/SG-10-train.txt
+word_accuracy: 98.33333333333333
+letter_accuracy: 99.55555555555556
+
+
+========================================================
+LSTM_Transformer tested with ../data/SG-10-train.txt
+word_accuracy: 73.33333333333334
+letter_accuracy: 92.77777777777777
+
+
+========================================================
+Transformer_LSTM tested with ../data/SG-10-train.txt
+word_accuracy: 97.66666666666667
+letter_accuracy: 99.0
+
+
+========================================================
+Transformer_Transformer tested with ../data/SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0

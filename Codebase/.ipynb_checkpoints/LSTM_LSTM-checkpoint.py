@@ -80,22 +80,22 @@ outer_decoder.load_weights(decPathH5)
 # In[9]:
 
 #Using command line arguments for the script
-# corpus = np.loadtxt(sys.argv[1], dtype=object) 
-# trainingSet = np.loadtxt(sys.argv[2], dtype=object) 
-# testingSet  = np.loadtxt(sys.argv[3], dtype=object)
+corpus = np.loadtxt(sys.argv[1], dtype=object) 
+trainingSet = np.loadtxt(sys.argv[2], dtype=object) 
+testingSet  = np.loadtxt(sys.argv[3], dtype=object)
 
 
 # In[10]:
 
 #use this if testing is neccisary
-corpus = open('../data/len5_10000-train.txt')#corpus = np.loadtxt(sys.argv[1], dtype=object)
-corpus = np.loadtxt(corpus, dtype=object)
+# corpus = open('../data/len5_10000-train.txt')#corpus = np.loadtxt(sys.argv[1], dtype=object)
+# corpus = np.loadtxt(corpus, dtype=object)
 
-trainingSet = open('../data/SG-10-train.txt')
-testingSet  = open('../data/SG-10-test.txt')
+# trainingSet = open('../data/SG-10-train.txt')
+# testingSet  = open('../data/SG-10-test.txt')
 
-trainingSet = np.loadtxt(trainingSet, dtype=str)
-testingSet  = np.loadtxt(testingSet, dtype=str)
+# trainingSet = np.loadtxt(trainingSet, dtype=str)
+# testingSet  = np.loadtxt(testingSet, dtype=str)
 
 
 # In[11]:
@@ -363,10 +363,18 @@ letter_accuracy: %f
 #I'm leaign the for now but I think I'd rather have this piping from the print into a file. 
 
 # --- Write results to file ---
-my_file = str(sys.argv[2][0:2]) + "_output.txt"
+#my_file = str(sys.argv[2][0:2]) + "_output.txt"
+#I'll think about how best to rework this when I start running it in a batch
+
+#until then
+my_file = "compiled_output.txt"
 
 file_object = open(my_file, 'a')
 # Append 'hello' at the end of file
+
+file_object.write("\n\n========================================================\n")
+file_object.write("LSTM_LSTM tested with " + sys.argv[2] + '\n')
+
 file_object.write("word_accuracy: " + str(word_accuracy*100) + '\n')
 
 file_object.write("letter_accuracy: " + str(letter_accuracy*100) + '\n')

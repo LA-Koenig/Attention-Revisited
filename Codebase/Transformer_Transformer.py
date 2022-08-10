@@ -91,20 +91,20 @@ keras.utils.plot_model(outer_decoder, show_shapes=True)
 
 # Load training and testing data
 
-# corpus = np.loadtxt(sys.argv[1], dtype=object)
-# trainingSet = np.loadtxt(sys.argv[2], dtype=object)
-# testingSet  = np.loadtxt(sys.argv[3], dtype=object)
+corpus = np.loadtxt(sys.argv[1], dtype=object)
+trainingSet = np.loadtxt(sys.argv[2], dtype=object)
+testingSet  = np.loadtxt(sys.argv[3], dtype=object)
 
 
-#corpus = np.loadtxt(sys.argv[1], dtype=object)
-corpus = (Path('..') / 'data' / 'len5_10000-train.txt' ).open() #open('../data/len5_10000-train.txt')
-corpus = np.loadtxt(corpus, dtype=object)
+# #corpus = np.loadtxt(sys.argv[1], dtype=object)
+# corpus = (Path('..') / 'data' / 'len5_10000-train.txt' ).open() #open('../data/len5_10000-train.txt')
+# corpus = np.loadtxt(corpus, dtype=object)
 
-trainingSet = (Path('..') / 'data' / 'SG-10-train.txt').open()
-testingSet  = (Path('..') / 'data' / 'SG-10-test.txt').open()
+# trainingSet = (Path('..') / 'data' / 'SG-10-train.txt').open()
+# testingSet  = (Path('..') / 'data' / 'SG-10-test.txt').open()
 
-trainingSet = np.loadtxt(trainingSet, dtype=str)
-testingSet  = np.loadtxt(testingSet, dtype=str)
+# trainingSet = np.loadtxt(trainingSet, dtype=str)
+# testingSet  = np.loadtxt(testingSet, dtype=str)
 
 
 # # Create Embeddings
@@ -400,6 +400,23 @@ letter_accuracy: %f
 
 # In[ ]:
 
+# --- Write results to file ---
+#my_file = str(sys.argv[2][0:2]) + "_output.txt"
+#I'll think about how best to rework this when I start running it in a batch
 
+#until then
+my_file = "compiled_output.txt"
+
+file_object = open(my_file, 'a')
+# Append 'hello' at the end of file
+
+file_object.write("\n\n========================================================\n")
+file_object.write("Transformer_Transformer tested with " + sys.argv[2] + '\n')
+
+file_object.write("word_accuracy: " + str(sum(word_acc_arr) / len(word_acc_arr) * 100) + '\n')
+
+file_object.write("letter_accuracy: " + str(sum(letter_acc_arr) / len(letter_acc_arr) * 100) + '\n')
+# Close the file
+file_object.close()
 
 
