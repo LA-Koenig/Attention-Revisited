@@ -1,14 +1,18 @@
-from testClass import*
+#!/usr/bin/env python3
+#from testClass import*
 
-test = Hello()
+#test = Hello()
 
-test.speak()
-
+#test.speak()
 
 import sys
+
+print("In test: ", sys.argv[1:])
 # print(sys.path)
 
 # print(double(5))
 
-file = open(sys.argv[1])
-print(file.readline())
+file = open("output.txt", 'w')
+file.write(sys.argv[1:])
+file.close()
+#print(file.readline())
