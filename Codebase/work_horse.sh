@@ -9,10 +9,10 @@ today=$(date +'%Y%m%d')
 mkdir results_$today 
 cd results_$today
 
-for task in 'SG' #'SA' 'FC' 'NF'
+for task in 'SG' 'SA' 'FC' 'NF'
 do
 	echo 'Task:' $task
-	for model in LSTM_LSTM #LSTM_Transformer Transformer_LSTM Transformer_Transformer
+	for model in LSTM_LSTM LSTM_Transformer Transformer_LSTM Transformer_Transformer
 	do
 		echo 'Model:' $model 'running' $1 'times'
 		mkdir -p ./$task/$model
@@ -26,7 +26,7 @@ do
 		for ((x=0; x<$1; x++))
 		do
 			#./single.sh 'test' $corpus $task'-10-train.txt' $task'-10-test.txt'
-			./single.sh $model $corpus $task'-10-train.txt' $task'-10-test.txt'
+			sbatch ./single.sh $model $corpus $task'-10-train.txt' $task'-10-test.txt'
 		done
 		echo
 		cd ../..

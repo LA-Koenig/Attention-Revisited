@@ -40,9 +40,9 @@ from resourceFunctions import *
 
 # setting up the pathlib stuff 
 pathBase = Path('.')
-print([x for x in path.iterdir() if x.is_dir()])
+#print([x for x in path.iterdir() if x.is_dir()])
 
-path = path / 'saved-models'
+path = pathBase / 'saved-models'
 outPath = path / 'OuterTransformer'
 
 encPathJson = outPath / 'encoder_len53.json'

@@ -55,7 +55,7 @@ strategy = tf.distribute.OneDeviceStrategy('gpu:1')
 
 # setting up the pathlib stuff 
 pathBase = Path('.')
-print([x for x in path.iterdir() if x.is_dir()])
+#print([x for x in path.iterdir() if x.is_dir()])
 
 path = pathBase / 'saved-models'
 outPath = path / 'outer_encdec_intembed'
