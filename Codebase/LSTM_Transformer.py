@@ -46,10 +46,10 @@ from resourceFunctions import *
 
 
 # setting up the pathlib stuff 
-path = Path('..')
-print([x for x in path.iterdir() if x.is_dir()])
+pathBase = Path('.')
+#print([x for x in path.iterdir() if x.is_dir()])
 
-path = path / 'saved-models'
+path = pathBase / 'saved-models'
 outPath = path / 'OuterTransformer'
 
 encPathJson = outPath / 'encoder_len53.json'
@@ -93,9 +93,9 @@ keras.utils.plot_model(outer_decoder, show_shapes=True)
 # In[8]:
 
 #Using command line arguments for the script
-corpus = np.loadtxt(sys.argv[1], dtype=object) 
-trainingSet = np.loadtxt(sys.argv[2], dtype=object) 
-testingSet  = np.loadtxt(sys.argv[3], dtype=object)
+corpus = np.loadtxt(pathBase / 'data' / sys.argv[1], dtype=object) 
+trainingSet = np.loadtxt(pathBase / 'data' / sys.argv[2], dtype=object) 
+testingSet  = np.loadtxt(pathBase / 'data' / sys.argv[3], dtype=object)
 
 
 # In[10]:

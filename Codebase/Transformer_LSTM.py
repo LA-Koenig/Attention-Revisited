@@ -54,10 +54,10 @@ strategy = tf.distribute.OneDeviceStrategy('gpu:1')
 
 
 # setting up the pathlib stuff 
-path = Path('..')
+pathBase = Path('.')
 print([x for x in path.iterdir() if x.is_dir()])
 
-path = path / 'saved-models'
+path = pathBase / 'saved-models'
 outPath = path / 'outer_encdec_intembed'
 
 encPathJson = outPath / 'encoder_len5_J_10000_intembed.json'
@@ -99,9 +99,9 @@ keras.utils.plot_model(outer_decoder, show_shapes=True)
 
 # Load training and testing data
 
-corpus = np.loadtxt(sys.argv[1], dtype=object)
-trainingSet = np.loadtxt(sys.argv[2], dtype=object)
-testingSet  = np.loadtxt(sys.argv[3], dtype=object)
+corpus = np.loadtxt(pathBase / 'data' / sys.argv[1], dtype=object)
+trainingSet = np.loadtxt(pathBase / 'data' / sys.argv[2], dtype=object)
+testingSet  = np.loadtxt(pathBase / 'data' / sys.argv[3], dtype=object)
 
 
 # #corpus = np.loadtxt(sys.argv[1], dtype=object)

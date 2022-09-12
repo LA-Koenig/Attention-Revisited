@@ -39,7 +39,7 @@ from resourceFunctions import *
 
 
 # setting up the pathlib stuff 
-path = Path('..')
+pathBase = Path('.')
 print([x for x in path.iterdir() if x.is_dir()])
 
 path = path / 'saved-models'
@@ -91,9 +91,9 @@ keras.utils.plot_model(outer_decoder, show_shapes=True)
 
 # Load training and testing data
 
-corpus = np.loadtxt(sys.argv[1], dtype=object)
-trainingSet = np.loadtxt(sys.argv[2], dtype=object)
-testingSet  = np.loadtxt(sys.argv[3], dtype=object)
+corpus = np.loadtxt(pathBase / 'data' / sys.argv[1], dtype=object)
+trainingSet = np.loadtxt(pathBase / 'data' / sys.argv[2], dtype=object)
+testingSet  = np.loadtxt(pathBase / 'data' / sys.argv[3], dtype=object)
 
 
 # #corpus = np.loadtxt(sys.argv[1], dtype=object)

@@ -52,10 +52,10 @@ strategy = tf.distribute.OneDeviceStrategy('gpu:1')
 
 
 # setting up the pathlib stuff 
-path = Path('..')
-print([x for x in path.iterdir() if x.is_dir()])
+pathBase = Path('.')
+#print([x for x in path.iterdir() if x.is_dir()])
 
-path = path / 'saved-models'
+path = pathBase / 'saved-models'
 outPath = path / 'outer_encdec_intembed'
 
 encPathJson = outPath / 'encoder_len5_J_10000_intembed.json'
@@ -80,9 +80,9 @@ outer_decoder.load_weights(decPathH5)
 # In[9]:
 
 #Using command line arguments for the script
-corpus = np.loadtxt(sys.argv[1], dtype=object) 
-trainingSet = np.loadtxt(sys.argv[2], dtype=object) 
-testingSet  = np.loadtxt(sys.argv[3], dtype=object)
+corpus = np.loadtxt(pathBase / 'data' / sys.argv[1], dtype=object) 
+trainingSet = np.loadtxt(pathBase / 'data' / sys.argv[2], dtype=object) 
+testingSet  = np.loadtxt(pathBase / 'data' / sys.argv[3], dtype=object)
 
 
 # In[10]:
