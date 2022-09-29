@@ -1,0 +1,600 @@
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 63.66666666666663
+letter_accuracy: 82.66666666666661
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 6.666666666666667
+letter_accuracy: 41.94444444444445
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 99.66666666666666
+letter_accuracy: 99.94444444444444
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 58.33333333333333
+letter_accuracy: 81.33333333333334
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SG-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0

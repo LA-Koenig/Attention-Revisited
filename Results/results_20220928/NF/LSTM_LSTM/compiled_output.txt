@@ -1,0 +1,600 @@
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 65.72222222222223
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 67.61111111111111
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 42.0
+letter_accuracy: 62.0
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 29.333333333333332
+letter_accuracy: 54.55555555555556
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 43.0
+letter_accuracy: 56.777777777777786
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 40.666666666666664
+letter_accuracy: 60.94444444444444
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 41.66666666666667
+letter_accuracy: 59.166666666666664
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 40.33333333333333
+letter_accuracy: 64.83333333333333
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 43.666666666666664
+letter_accuracy: 56.166666666666664
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 30.0
+letter_accuracy: 54.333333333333336
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 37.333333333333336
+letter_accuracy: 55.166666666666664
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 41.333333333333336
+letter_accuracy: 57.22222222222222
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 59.27777777777777
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 44.666666666666664
+letter_accuracy: 58.5
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 42.333333333333336
+letter_accuracy: 60.83333333333333
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 35.66666666666667
+letter_accuracy: 53.22222222222223
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 50.33333333333333
+letter_accuracy: 67.11111111111111
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 37.666666666666664
+letter_accuracy: 56.05555555555556
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 42.0
+letter_accuracy: 61.16666666666667
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 43.333333333333336
+letter_accuracy: 61.33333333333333
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 47.333333333333336
+letter_accuracy: 59.333333333333336
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 48.0
+letter_accuracy: 59.88888888888889
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 51.33333333333333
+letter_accuracy: 68.88888888888889
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 33.33333333333333
+letter_accuracy: 54.11111111111111
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 40.0
+letter_accuracy: 64.22222222222223
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 49.666666666666664
+letter_accuracy: 66.83333333333333
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 37.333333333333336
+letter_accuracy: 60.83333333333333
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 36.333333333333336
+letter_accuracy: 57.277777777777786
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 62.72222222222222
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 38.666666666666664
+letter_accuracy: 53.833333333333336
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 48.333333333333336
+letter_accuracy: 63.77777777777778
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 26.333333333333332
+letter_accuracy: 50.0
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 36.333333333333336
+letter_accuracy: 53.0
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 47.0
+letter_accuracy: 66.27777777777779
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 40.666666666666664
+letter_accuracy: 60.83333333333333
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 36.0
+letter_accuracy: 57.88888888888889
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 35.0
+letter_accuracy: 53.888888888888886
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 42.66666666666667
+letter_accuracy: 56.777777777777786
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 47.333333333333336
+letter_accuracy: 58.88888888888889
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 36.666666666666664
+letter_accuracy: 57.05555555555556
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 30.0
+letter_accuracy: 64.94444444444444
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 44.0
+letter_accuracy: 60.333333333333336
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 48.333333333333336
+letter_accuracy: 67.38888888888889
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 69.88888888888889
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 44.0
+letter_accuracy: 59.22222222222222
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 47.0
+letter_accuracy: 58.833333333333336
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 35.0
+letter_accuracy: 57.277777777777786
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 52.0
+letter_accuracy: 58.22222222222222
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 31.666666666666664
+letter_accuracy: 55.888888888888886
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 45.666666666666664
+letter_accuracy: 58.55555555555556
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 40.0
+letter_accuracy: 54.833333333333336
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 44.0
+letter_accuracy: 63.888888888888886
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 34.66666666666667
+letter_accuracy: 58.55555555555556
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 46.33333333333333
+letter_accuracy: 61.27777777777778
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 41.66666666666667
+letter_accuracy: 59.111111111111114
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 45.0
+letter_accuracy: 62.33333333333333
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 28.666666666666668
+letter_accuracy: 54.22222222222223
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 41.66666666666667
+letter_accuracy: 61.77777777777778
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 47.0
+letter_accuracy: 61.16666666666667
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 61.83333333333333
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 38.666666666666664
+letter_accuracy: 59.333333333333336
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 46.33333333333333
+letter_accuracy: 59.66666666666667
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 38.666666666666664
+letter_accuracy: 58.77777777777777
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 43.333333333333336
+letter_accuracy: 64.11111111111111
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 35.66666666666667
+letter_accuracy: 55.111111111111114
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 30.666666666666664
+letter_accuracy: 55.50000000000001
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 40.33333333333333
+letter_accuracy: 54.77777777777778
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 48.66666666666667
+letter_accuracy: 59.94444444444444
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 41.66666666666667
+letter_accuracy: 59.38888888888889
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 45.0
+letter_accuracy: 62.61111111111111
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 44.333333333333336
+letter_accuracy: 58.38888888888889
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 41.0
+letter_accuracy: 57.666666666666664
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 46.33333333333333
+letter_accuracy: 57.22222222222222
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 46.0
+letter_accuracy: 61.94444444444444
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 42.66666666666667
+letter_accuracy: 57.22222222222222
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 49.666666666666664
+letter_accuracy: 59.0
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 35.333333333333336
+letter_accuracy: 56.888888888888886
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 34.66666666666667
+letter_accuracy: 57.388888888888886
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 40.666666666666664
+letter_accuracy: 56.72222222222222
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 47.333333333333336
+letter_accuracy: 60.88888888888889
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 54.0
+letter_accuracy: 59.72222222222222
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 42.0
+letter_accuracy: 61.33333333333333
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 31.333333333333336
+letter_accuracy: 51.388888888888886
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 33.0
+letter_accuracy: 53.27777777777778
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 34.0
+letter_accuracy: 54.44444444444444
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 43.333333333333336
+letter_accuracy: 57.833333333333336
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 65.55555555555556
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 55.666666666666664
+letter_accuracy: 66.05555555555556
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 50.33333333333333
+letter_accuracy: 63.16666666666667
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 58.27777777777777
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 36.333333333333336
+letter_accuracy: 53.333333333333336
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 40.0
+letter_accuracy: 56.611111111111114
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 49.333333333333336
+letter_accuracy: 59.05555555555555
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 42.0
+letter_accuracy: 58.166666666666664
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 40.0
+letter_accuracy: 64.44444444444444
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 37.666666666666664
+letter_accuracy: 53.333333333333336
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 43.0
+letter_accuracy: 61.77777777777778
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 41.0
+letter_accuracy: 65.0
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 39.0
+letter_accuracy: 59.22222222222222
+
+
+========================================================
+LSTM_LSTM tested with NF-10-train.txt
+word_accuracy: 49.666666666666664
+letter_accuracy: 64.5

@@ -1,0 +1,600 @@
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.33333333333333
+letter_accuracy: 99.27777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.0
+letter_accuracy: 98.44444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.66666666666667
+letter_accuracy: 98.94444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 95.66666666666667
+letter_accuracy: 96.94444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.33333333333333
+letter_accuracy: 98.72222222222223
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 59.333333333333336
+letter_accuracy: 84.33333333333334
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.0
+letter_accuracy: 99.66666666666667
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 96.0
+letter_accuracy: 97.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.66666666666667
+letter_accuracy: 99.5
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.0
+letter_accuracy: 99.33333333333333
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.66666666666667
+letter_accuracy: 99.44444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.66666666666667
+letter_accuracy: 99.22222222222223
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.0
+letter_accuracy: 99.66666666666667
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.0
+letter_accuracy: 98.72222222222223
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.33333333333333
+letter_accuracy: 99.83333333333333
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.66666666666667
+letter_accuracy: 99.6111111111111
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 96.66666666666667
+letter_accuracy: 98.33333333333333
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.94444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 96.66666666666667
+letter_accuracy: 98.33333333333333
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.66666666666667
+letter_accuracy: 98.94444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.0
+letter_accuracy: 97.94444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.94444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 95.0
+letter_accuracy: 97.83333333333334
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.66666666666667
+letter_accuracy: 99.33333333333333
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.33333333333333
+letter_accuracy: 99.05555555555556
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.33333333333333
+letter_accuracy: 99.22222222222223
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.77777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.33333333333333
+letter_accuracy: 99.77777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.33333333333333
+letter_accuracy: 99.16666666666667
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 95.66666666666667
+letter_accuracy: 97.88888888888889
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 95.66666666666667
+letter_accuracy: 97.27777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.0
+letter_accuracy: 99.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 76.0
+letter_accuracy: 91.77777777777779
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.33333333333333
+letter_accuracy: 99.11111111111111
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 96.66666666666667
+letter_accuracy: 99.16666666666667
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.8888888888889
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.33333333333334
+letter_accuracy: 98.22222222222223
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.33333333333333
+letter_accuracy: 99.77777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 95.33333333333334
+letter_accuracy: 97.44444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.66666666666667
+letter_accuracy: 98.38888888888889
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.66666666666667
+letter_accuracy: 99.27777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.94444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.8888888888889
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 96.33333333333334
+letter_accuracy: 98.22222222222223
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.8888888888889
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.33333333333333
+letter_accuracy: 99.44444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.83333333333333
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 96.0
+letter_accuracy: 97.5
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.0
+letter_accuracy: 98.77777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.0
+letter_accuracy: 98.83333333333333
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 96.66666666666667
+letter_accuracy: 98.16666666666667
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 92.33333333333333
+letter_accuracy: 95.77777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.77777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.33333333333334
+letter_accuracy: 98.5
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.66666666666667
+letter_accuracy: 99.11111111111111
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.0
+letter_accuracy: 99.72222222222223
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 96.0
+letter_accuracy: 98.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.66666666666667
+letter_accuracy: 99.77777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.94444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.0
+letter_accuracy: 98.94444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.66666666666667
+letter_accuracy: 98.77777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.33333333333333
+letter_accuracy: 99.5
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 95.0
+letter_accuracy: 97.5
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 0.0
+letter_accuracy: 11.61111111111111
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.33333333333334
+letter_accuracy: 98.44444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 92.66666666666666
+letter_accuracy: 94.55555555555556
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.33333333333334
+letter_accuracy: 99.11111111111111
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 96.66666666666667
+letter_accuracy: 98.61111111111111
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.33333333333333
+letter_accuracy: 99.8888888888889
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.0
+letter_accuracy: 99.33333333333333
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.94444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.83333333333333
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.0
+letter_accuracy: 98.38888888888889
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.0
+letter_accuracy: 99.55555555555556
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 94.33333333333334
+letter_accuracy: 97.27777777777777
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 96.33333333333334
+letter_accuracy: 98.61111111111111
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 96.66666666666667
+letter_accuracy: 99.44444444444444
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 97.33333333333334
+letter_accuracy: 98.33333333333333
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.33333333333333
+letter_accuracy: 99.11111111111111
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 98.33333333333333
+letter_accuracy: 99.16666666666667
+
+
+========================================================
+Transformer_LSTM tested with SA-10-train.txt
+word_accuracy: 99.66666666666667
+letter_accuracy: 99.83333333333333

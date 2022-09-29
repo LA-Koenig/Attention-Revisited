@@ -1,0 +1,16 @@
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-rc4bb262 because the default path (/home/jovyan/.cache/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+2022-09-28 23:53:54.092818: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /.singularity.d/libs
+2022-09-28 23:53:54.092861: W tensorflow/stream_executor/cuda/cuda_driver.cc:269] failed call to cuInit: UNKNOWN ERROR (303)
+2022-09-28 23:53:54.092891: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (agent-0): /proc/driver/nvidia/version does not exist
+2022-09-28 23:53:54.103465: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+X.shape= (10000, 5)
+Y.shape= (10000, 7)
+preY.shape= (10000, 6)
+postY.shape= (10000, 6)
+1/7 [===>..........................] - ETA: 0s - loss: 3.7056e-04 - token_1_loss: 3.6017e-04 - start/stop_loss: 1.0392e-05 - token_1_accuracy: 0.7047 - start/stop_accuracy: 0.75006/7 [========================>.....] - ETA: 0s - loss: 3.3776e-04 - token_1_loss: 3.2710e-04 - start/stop_loss: 1.0662e-05 - token_1_accuracy: 0.7180 - start/stop_accuracy: 0.75007/7 [==============================] - 0s 11ms/step - loss: 3.3687e-04 - token_1_loss: 3.2623e-04 - start/stop_loss: 1.0634e-05 - token_1_accuracy: 0.7180 - start/stop_accuracy: 0.7500
+   Generalization Accuracy
+-----------------------------
+word_accuracy: 13.333333
+letter_accuracy: 47.777778
+

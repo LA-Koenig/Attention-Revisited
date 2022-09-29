@@ -1,0 +1,600 @@
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 74.16666666666666
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 70.11111111111111
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.66666666666662
+letter_accuracy: 69.44444444444447
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 71.49999999999999
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 70.61111111111111
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.11111111111111
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 76.3888888888889
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.27777777777777
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 76.77777777777777
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 74.66666666666667
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 76.2777777777778
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 75.2222222222222
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 70.22222222222223
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 76.49999999999999
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.16666666666664
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.16666666666667
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 72.5
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.88888888888889
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 66.66666666666661
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.55555555555554
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 70.33333333333334
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.72222222222223
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.83333333333334
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.66666666666666
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 79.88888888888887
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 75.88888888888889
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 77.94444444444437
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 70.11111111111111
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.94444444444446
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.27777777777777
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.88888888888889
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 66.66666666666661
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 66.66666666666661
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 75.27777777777776
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.27777777777777
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 72.55555555555556
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 58.99999999999995
+letter_accuracy: 68.16666666666666
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 80.2222222222222
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.88888888888889
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 76.61111111111113
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.22222222222221
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.88888888888889
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 72.44444444444444
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 75.16666666666667
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 76.77777777777777
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.55555555555559
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 67.38888888888886
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 58.333333333333314
+letter_accuracy: 69.2777777777778
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 75.94444444444446
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 57.666666666666636
+letter_accuracy: 68.38888888888889
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.05555555555554
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.88888888888889
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.55555555555554
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 58.99999999999997
+letter_accuracy: 70.22222222222223
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 72.72222222222223
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 51.0
+letter_accuracy: 61.94444444444439
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 72.94444444444447
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.5
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.11111111111114
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.55555555555559
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.5
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.33333333333331
+letter_accuracy: 69.55555555555556
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 77.05555555555553
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 75.77777777777779
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 58.999999999999964
+letter_accuracy: 69.49999999999999
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.0
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 70.66666666666667
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.94444444444443
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 68.55555555555556
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 70.66666666666669
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 75.61111111111113
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.88888888888889
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.22222222222223
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 74.11111111111111
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.88888888888889
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.61111111111111
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 75.94444444444444
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 69.77777777777777
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 76.77777777777777
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.11111111111114
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 57.333333333333314
+letter_accuracy: 68.27777777777777
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.77777777777781
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.11111111111114
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 75.8888888888889
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 66.66666666666661
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 68.5
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 76.55555555555554
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 77.11111111111111
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 56.333333333333314
+letter_accuracy: 67.27777777777779
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 53.66666666666665
+letter_accuracy: 71.50000000000003
+
+
+========================================================
+Transformer_Transformer tested with NF-10-train.txt
+word_accuracy: 59.99999999999995
+letter_accuracy: 73.33333333333333

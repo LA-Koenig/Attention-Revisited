@@ -1,0 +1,600 @@
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 90.66666666666669
+letter_accuracy: 98.44444444444441
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 44.333333333333364
+letter_accuracy: 75.44444444444443
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 0.6666666666666666
+letter_accuracy: 39.22222222222221
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0
+
+
+========================================================
+Transformer_Transformer tested with SA-10-train.txt
+word_accuracy: 100.0
+letter_accuracy: 100.0

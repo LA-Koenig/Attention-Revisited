@@ -1,0 +1,600 @@
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 43.33333333333333
+letter_accuracy: 66.11111111111111
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 71.66666666666666
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 68.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 65.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 68.88888888888889
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 72.77777777777776
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 71.66666666666666
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 68.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 68.8888888888889
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 71.11111111111111
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 43.33333333333334
+letter_accuracy: 66.66666666666667
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 73.33333333333334
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 72.22222222222221
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 67.22222222222223
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 43.33333333333334
+letter_accuracy: 68.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 75.55555555555554
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 60.0
+letter_accuracy: 72.77777777777777
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 67.22222222222223
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 67.77777777777779
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 70.55555555555554
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 67.22222222222223
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 43.33333333333334
+letter_accuracy: 68.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 65.55555555555557
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 60.0
+letter_accuracy: 69.44444444444444
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 66.11111111111111
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 70.55555555555554
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 72.22222222222221
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 68.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 43.33333333333333
+letter_accuracy: 65.55555555555557
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 60.0
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 71.11111111111111
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 71.66666666666667
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 70.55555555555554
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 60.0
+letter_accuracy: 68.88888888888889
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 74.44444444444443
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 67.22222222222223
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 63.33333333333334
+letter_accuracy: 74.44444444444443
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 78.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 67.22222222222223
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 66.66666666666667
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 69.44444444444444
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 43.33333333333334
+letter_accuracy: 67.77777777777779
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 69.44444444444444
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 68.88888888888889
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 76.66666666666667
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 76.11111111111111
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 71.11111111111111
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 66.11111111111111
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 43.33333333333334
+letter_accuracy: 66.66666666666667
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 66.66666666666667
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 73.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 71.66666666666666
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 40.0
+letter_accuracy: 65.55555555555557
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 68.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 71.66666666666667
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 72.22222222222221
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 72.77777777777777
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 43.33333333333333
+letter_accuracy: 67.22222222222223
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 68.88888888888889
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 67.22222222222223
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 66.66666666666667
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 65.00000000000001
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 68.88888888888889
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 66.11111111111111
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 60.0
+letter_accuracy: 74.44444444444444
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 60.0
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 69.44444444444444
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 72.22222222222221
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 60.0
+letter_accuracy: 68.88888888888889
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.33333333333334
+letter_accuracy: 69.44444444444444
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 67.77777777777779
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 68.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 72.77777777777777
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 70.55555555555556
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 75.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 68.33333333333333
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 56.666666666666664
+letter_accuracy: 68.88888888888889
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 50.0
+letter_accuracy: 70.0
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 69.44444444444444
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 46.666666666666664
+letter_accuracy: 66.11111111111111
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 60.0
+letter_accuracy: 72.22222222222221
+
+
+========================================================
+LSTM_Transformer tested with NF-10-train.txt
+word_accuracy: 53.333333333333336
+letter_accuracy: 69.44444444444444
